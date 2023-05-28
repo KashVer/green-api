@@ -50,6 +50,4 @@ Input для ввода сообщения:
 <img width="780" alt="Ввод сообщения" src="https://github.com/KashVer/green-api/assets/125138959/503709b3-8686-4f46-94a9-6630738afb39">
 
 
-Работа чата:
 
-<img width="790" alt="Работа чата" src="https://github.com/KashVer/green-api/assets/125138959/7fa83110-30a0-4d74-a29e-47c3f1cbee4a">
